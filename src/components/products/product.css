@@ -20,3 +20,8 @@
     width: 100%;
     color: gray;
 }
+
+.text-link {
+    color: inherit;
+    text-decoration: inherit;
+}

@@ -1,13 +1,13 @@
 import "./productGrid.css"
 import products from "../../assets/prod.json"
-import { Product } from "./Product"
+import { ProductCard } from "./ProductCard"
 
 export function ProductGrid() {
     return (
         <div className="products">
             {
                 products.map((element, key) => {
-                    return (<Product
+                    return (<ProductCard
                         key={key}
                         id={element.id}
                         nombre={element.nombre}
