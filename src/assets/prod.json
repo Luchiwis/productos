@@ -69,5 +69,12 @@
         "descripcion": "mouse ergonómico con conectividad bluetooth",
         "precio_us": "40",
         "stock": 150
+    },
+    {
+        "id": 10,
+        "nombre": "mouse alambrico",
+        "descripcion": "mouse ergonómico con conectividad por cable",
+        "precio_us": "800",
+        "stock": 1
     }
 ]
