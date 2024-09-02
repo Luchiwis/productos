@@ -1,0 +1,22 @@
+.product{
+    border: 2px solid black;
+    margin: 2rem;
+}
+
+.product-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.product-container{
+    width: 50%;
+    display: flex;
+}
+
+.product-container > *{
+    width: 100%;
+    color: gray;
+}

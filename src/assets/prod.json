@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "nombre": "maquina de afeitar",
+        "descripcion": "esta maquina sirve para afeitar",
+        "precio_us": "50",
+        "stock": 100,
+        "thumbnail": "imagen.png"
+    },
+    {
+        "id": 1,
+        "nombre": "laptop",
+        "descripcion": "laptop con procesador i7, 16GB RAM y 512GB SSD",
+        "precio_us": "1200",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "nombre": "auriculares bluetooth",
+        "descripcion": "auriculares inalámbricos con cancelación de ruido",
+        "precio_us": "150",
+        "stock": 75
+    },
+    {
+        "id": 3,
+        "nombre": "smartphone",
+        "descripcion": "smartphone de última generación con pantalla OLED",
+        "precio_us": "900",
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "nombre": "reloj inteligente",
+        "descripcion": "reloj con monitor de actividad física y GPS",
+        "precio_us": "200",
+        "stock": 60
+    },
+    {
+        "id": 5,
+        "nombre": "cámara digital",
+        "descripcion": "cámara digital con 24MP y zoom óptico 10x",
+        "precio_us": "500",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "nombre": "impresora láser",
+        "descripcion": "impresora láser en blanco y negro, con wifi",
+        "precio_us": "180",
+        "stock": 30
+    },
+    {
+        "id": 7,
+        "nombre": "tablet",
+        "descripcion": "tablet con pantalla de 10 pulgadas y 64GB de almacenamiento",
+        "precio_us": "300",
+        "stock": 80
+    },
+    {
+        "id": 8,
+        "nombre": "altavoz portátil",
+        "descripcion": "altavoz bluetooth resistente al agua con 20 horas de autonomía",
+        "precio_us": "100",
+        "stock": 120
+    },
+    {
+        "id": 9,
+        "nombre": "mouse inalámbrico",
+        "descripcion": "mouse ergonómico con conectividad bluetooth",
+        "precio_us": "40",
+        "stock": 150
+    }
+]
